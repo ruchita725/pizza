@@ -2,7 +2,7 @@
 
 # pizza Website HTML/CSS/JAVASCRIPT
 
-### Demo: https://ruchita725.github.io/pizza/
+### Demo:  https://ruchita725.github.io/pizza-website/
 
 ![pizza](https://github.com/ruchita725/pizza/blob/main/images/img/photo.png)
 
